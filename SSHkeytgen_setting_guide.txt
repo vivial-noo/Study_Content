@@ -1,0 +1,5 @@
+user 目录下
+cd .ssh
+ssh-keygen -t rsa -C ‘邮箱’ -f ‘给密钥文件命名’
+ls
+cat 相对应的 idpub 密钥
